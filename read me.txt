@@ -1,0 +1,25 @@
+🔐 Offline Notes Vault
+
+A secure notes app that stores your notes *offline*, encrypted with AES.  
+Perfect for saving passwords, private thoughts, or secrets — without needing internet.
+
+🌟 Features
+- AES-256 encryption
+- Works fully offline
+- Stores data locally
+- Minimal and clean UI
+- Add/delete notes securely
+
+📦 Tech Stack
+- React Native
+- AsyncStorage
+- crypto-js
+
+🔐 Usage
+1. Enter a passphrase
+2. Decrypts and loads your encrypted notes
+3. Add or delete as needed
+
+Not yet hosted or deployed. Code only. Frontend ready.
+
+made my shaadaab
